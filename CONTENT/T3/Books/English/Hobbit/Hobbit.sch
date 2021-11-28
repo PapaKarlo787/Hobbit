@@ -1,0 +1,7 @@
+VERSION 2.0
+TextEntry
+BKRMpile1
+lang_english 2004-01-21 12:08:20 "<font=Papyrus20>\n\n<jc>The Hobbit or There and Back Again\n<p>\nIn a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort."
+lang_french 2004-01-21 12:08:20 "<font=Papyrus20>\n\n<jc>The Hobbit or There and Back Again\n<p>\nIn a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort."
+lang_german 2004-01-21 12:08:20 "<font=Papyrus20>\n\n<jc>The Hobbit or There and Back Again\n<p>\nIn a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort."
+lang_italian 2004-01-21 12:08:20 "<font=Papyrus20>\n\n<jc>The Hobbit or There and Back Again\n<p>\nIn a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort."
