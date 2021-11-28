@@ -17,5 +17,5 @@ tags 1
 +voice:
 MetaSound
 HobbitObjectives_004000/meta1
-lang_english 2021-11-25 20:37:45:00 "So now I need to find out what a special thing lead me to this ring!"
+lang_english 2021-11-25 20:37:45:00 "So now I need to find out what a special things lead me to this ring!"
 none

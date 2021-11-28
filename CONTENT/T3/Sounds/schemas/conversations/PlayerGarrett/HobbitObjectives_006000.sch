@@ -17,5 +17,5 @@ tags 1
 +voice:
 MetaSound
 HobbitObjectives_006000/meta1
-lang_english 2021-11-25 20:37:45:00 "Beter i go faster to the attic make a ritual - too much guards."
+lang_english 2021-11-25 20:37:45:00 "Beter I go faster to the attic make a ritual - too much guards."
 none
