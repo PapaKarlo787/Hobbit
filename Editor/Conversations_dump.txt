@@ -1,0 +1,263 @@
+ PlayerGarrett owned Objectives 
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+name  : CastleObjectives
+maps  : Castle 
+[000] Goal         Objective    Pending    obj_EnterCastle                { CastleObjectives_001000 } Break into Rutherford Castle.
+[001] Goal         Objective    Pending    obj_FindClue                   { CastleObjectives_002000 } Find a clue about how to locate and open the vault.
+[002] Goal         Objective    Hidden     obj_SearchEmbersRoom           { CastleObjectives_003000 } The vault is protected by a portcullis.  Search Lord Ember's chambers to figure out how to open the portcullis.
+[003] Goal         Objective    Hidden     obj_FindSwitch                 { CastleObjectives_004000 } Find and activate the secret switch in Lord Ember's chambers to open the vault's portcullis.
+[004] Goal         Objective    Pending    obj_StealObject                { CastleObjectives_005000 } Steal the Bloodline Opal from the vault.
+[005] Goal         Objective    Pending    obj_Exit                       { CastleObjectives_006000 } When your other objectives are complete, leave the castle grounds the same way you came in, the front gate.
+[006] Goal         Note         Pending    obj_PutOutLionheadTorch        { CastleObjectives_007000 } The cook is waiting for the signal. Put out the lionhead torch, and he'll open the side entrance located above the torch on the castle ramparts.
+[007] Goal         Note         Hidden     obj_PutOutLionheadTorchAlt     { CastleObjectives_007250 } The cook is waiting for the signal. Put out the lionhead torch, and he'll open the side entrance located above the torch on the castle ramparts.
+[008] Goal         Note         Hidden     obj_VaultInBasement            { CastleObjectives_007500 } The vault is in the basement.
+[009] Goal         Note         Hidden     obj_CooksJournal               { CastleObjectives_008000 } The cook's journal said there's a secret switch to the vault portcullis in Lord Ember's chambers.
+[010] End          
+--------------------------------------------------------------------------------
+name  : CitySectionObjectives
+maps  : SouthQuarter Stonemarket Docks OldQuarter Auldale 
+[000] Goal         Objective    Hidden     obj_BreakOutOfCell             { CitySectionObjectives_000125 } Break out of your cell.
+[001] Goal         Objective    Hidden     obj_PAVGetStuff                { CitySectionObjectives_000500 } Your equipment is locked up in the Confiscation Depository, south of your cell.  Get it back.
+[002] Goal         Objective    Hidden     obj_PAVBreakOut                { CitySectionObjectives_001500 } Escape from Pavelock Prison.
+[003] Goal         Objective    Hidden     obj_SQSpeakToPerry             { CitySectionObjectives_001000 } Go see your fence Heartless Perry in Black Alley to sell him the Bloodline Opal.
+[004] Goal         Objective    Hidden     obj_SQUnlockStonemarket        { CitySectionObjectives_002000 } Deal with Lady Elizabeth and her thugs so you can get into Stonemarket.
+[005] Goal         Objective    Hidden     obj_SQStoneOpal                { CitySectionObjectives_003000 } Sell the Bloodline Opal to Black Market Bertha, the fence in Stonemarket Proper.
+[006] Goal         Objective    Hidden     obj_SMMeetArty                 { CitySectionObjectives_006000 } Meet with the Keepers in Terces Courtyard in Stonemarket Plaza.
+[007] Goal         Restriction  Hidden     res_SMNoKillKeepers            { CitySectionObjectives_007000 } You're working with the Keepers for now.  Don't attack them or get caught doing anything that will cause them to attack you.
+[008] Goal         Objective    Hidden     obj_SMStealChalice             { CitySectionObjectives_008000 } Steal the Chalice from St. Edgar's Church in Stonemarket Proper.
+[009] Goal         Objective    Hidden     obj_SMStealPaw                 { CitySectionObjectives_009000 } Use the South Quarter well to enter the Pagan tunnels, and steal the Paw from them.
+[010] Goal         Objective    Hidden     obj_SMDeliverToArty            { CitySectionObjectives_007500 } Deliver the Chalice and Paw to Artemus in Terces Courtyard in Stonemarket Plaza.
+[011] Goal         Objective    Hidden     obj_SMDeliverToArtyAlt         { CitySectionObjectives_010000 } Deliver the Chalice and Paw to Artemus, who is West of Terces Courtyard in Stonemarket Plaza.
+[012] Goal         Objective    Hidden     obj_KLFrobGlyph                { CitySectionObjectives_009500 } Use the plaque on the wall near Keeper Isolde to receive the Keeper Door Glyph.
+[013] Goal         Objective    Hidden     obj_KLSearchLibrary            { CitySectionObjectives_011000 } Search around the Keeper Library for clues about the Dark Age.
+[014] Goal         Objective    Hidden     obj_KLSpeakToArty              { CitySectionObjectives_012000 } Speak to Keeper Artemus before you leave the Library.
+[015] Goal         Objective    Hidden     obj_KLSpeakToIsolde            { CitySectionObjectives_013000 } Speak to Keeper Isolde before you leave the Library.
+[016] Goal         Objective    Hidden     obj_KLReadDreptNote            { CitySectionObjectives_014000 } Read the letter the Hammerite Inspector Drept has left for you.  It is on the table in front of Artemus.
+[017] Goal         Objective    Hidden     obj_KLReadDyanNote             { CitySectionObjectives_015000 } Go to the Docks' Pagan stronghold and read the letter left for you by the Pagan priestess, Dyan.
+[018] Goal         Objective    Hidden     obj_KLSearchCanal              { CitySectionObjectives_015500 } Search the Sewers in the Docks to locate the entrance to the Sunken Citadel in order to find the missing Glyph Key that the Keepers are searching for.
+[019] Goal         Objective    Hidden     obj_KLSearchShip               { CitySectionObjectives_016000 } Enter the ship called the Abysmal Gale in the Docks to see if it's related to the Compendium of Reproach that the Keepers are searching for.
+[020] Goal         Objective    Hidden     obj_DOCFindFistMatesDiary      { CitySectionObjectives_016500 } Get to the cargo hold down below, then find and read the Ship's Manifest for clues about the Compendium of Reproach.
+[021] Goal         Objective    Hidden     obj_HSTakeBoat                 { CitySectionObjectives_018000 } Find a boat in the Docks and take it to Captain Moira's seaside mansion to steal the Compendium of Reproach.
+[022] Goal         Objective    Hidden     obj_KLReturnToLibrary          { CitySectionObjectives_019000 } Visit the Forbidden Library to hear Caduca read from the Compendium of Reproach.
+[023] Goal         Objective    Hidden     obj_KLBreakIntoClocktower      { CitySectionObjectives_020000 } Break into the Stonemarket Clocktower via an upper-story access pipe in Stonemarket Plaza to sabotage the clockworks.
+[024] Goal         Objective    Hidden     obj_SMReturnToLibrary          { CitySectionObjectives_021000 } Return to Keeper Library to see if Interpreter Caduca has discovered the identity of the Brethren and Betrayer.
+[025] Goal         Objective    Hidden     obj_OQGettoFence               { CitySectionObjectives_019500 } Get to your fence here in Old Quarter to see if he can help you before you are killed by the Keeper Assassins.  Ramien's place is to the East.
+[026] Goal         Objective    Hidden     obj_OQGettoFenceAlt            { CitySectionObjectives_022000 } Get to your fence here in Old Quarter to see if he can help you before you are killed by the Keeper Assassins.
+[027] Goal         Objective    Hidden     obj_OQSearchFence              { CitySectionObjectives_023000 } Search for clues in your fence's shop about what you should do next.
+[028] Goal         Objective    Hidden     obj_OQGetToApartment           { CitySectionObjectives_024000 } Go to your building in South Quarter, as instructed by the mysterious note.
+[029] Goal         Objective    Hidden     obj_OQSearchApartment          { CitySectionObjectives_025000 } After you enter your building, search around for clues about what's going on.
+[030] Goal         Objective    Hidden     obj_SQGetToGraveyard           { CitySectionObjectives_026000 } Meet with the mysterious note writers in the Graveyard in Old Quarter.
+[031] Goal         Objective    Hidden     obj_OQUseTunnel                { CitySectionObjectives_027000 } Return to the Keeper Library in Stonemarket Plaza, then find the secret tunnel which leads to the Keeper Compound.
+[032] Goal         Objective    Hidden     obj_OQFindDrept                { CitySectionObjectives_028000 } Find Inspector Drept in Auldale to learn about the hag who set a trap for you in Keeper Compound. Enter Drept's workshop through the window.
+[033] Goal         Objective    Hidden     obj_AULGoToShalebridge         { CitySectionObjectives_029000 } Go to the Shalebridge Cradle to see what you can learn about the hag.  The Cradle is in Old Quarter, near the gate to the Docks.
+[034] Goal         Objective    Hidden     obj_OQFollowGhost              { CitySectionObjectives_028500 } Follow Lauryl's ghost to see where it leads you.
+[035] Goal         Objective    Hidden     obj_OQFollowGhostAlt           { CitySectionObjectives_030000 } Meet Lauryl's ghost somewhere in the catacombs below Fort Ironwood.
+[036] Goal         Objective    Hidden     obj_CATGetToLibrary            { CitySectionObjectives_031000 } Translator Gamall, the hag in disguise, is the one you've been after this whole time. Return to the Keeper Library to inform the Keepers.
+[037] Goal         Objective    Hidden     obj_AULGetDyansAmulet          { CitySectionObjectives_032500 } Obtain the magic amulet belonging to the Pagan priestess, Dyan, who is in Auldale Park.
+[038] Goal         Objective    Hidden     obj_AULLowerCanalWater         { CitySectionObjectives_033500 } Use Dyan's magic amulet to open the Pump House, then lower the water level so you can enter the canal.
+[039] Goal         Objective    Hidden     obj_KLFindGamallsLair          { CitySectionObjectives_032000 } Go to Auldale, figure out where Gamall's hidden lair is located, then break into it.
+[040] Goal         Objective    Hidden     obj_KLGetChaliceAndPaw         { CitySectionObjectives_033000 } Steal back both the Chalice and the Paw from Gamall's Lair.
+[041] Goal         Objective    Hidden     obj_KLSearchGamallsLair        { CitySectionObjectives_034000 } Search Gamall's Lair for clues about the Final Glyph and why she wants the Artifacts.
+[042] Goal         Objective    Hidden     obj_GAMFindUnbinding           { CitySectionObjectives_034500 } Find and obtain the Glyph of Unbinding, which can be used to destroy Gamall's statues.
+[043] Goal         Objective    Hidden     obj_GAMBreakIntoMuseum         { CitySectionObjectives_037000 } Break into the Museum in order to steal the remaining Artifacts before Gamall does.
+[044] Goal         Objective    Hidden     obj_GAMMeetArty                { CitySectionObjectives_038000 } When you have all the Artifacts, meet Artemus in Terces Courtyard in Stonemarket Plaza.
+[045] Goal         Objective    Hidden     obj_AULPlaceHeart              { CitySectionObjectives_039000 } Place the Heart on the Bradshaw Monument  in the Auldale Plaza.
+[046] Goal         Objective    Hidden     obj_AULPlaceChalice            { CitySectionObjectives_040000 } Place the Chalice on the Cataclysm Memorial in Fort Ironwood.
+[047] Goal         Objective    Hidden     obj_AULPlacePaw                { CitySectionObjectives_041000 } Place the Paw on the First Landing Marker in the Docks.
+[048] Goal         Objective    Hidden     obj_AULPlaceCrown              { CitySectionObjectives_042000 } Place the Crown in the storage area at the base of the Clocktower in Stonemarket Proper. 
+[049] Goal         Objective    Hidden     obj_AULPlaceEye                { CitySectionObjectives_043000 } Lastly, place the Eye on the Fountain in South Quarter.
+[050] Goal         Note         Hidden     note_PAVGuardHasKey            { CitySectionObjectives_045500 } The guard who patrols this hall carries the keys to the cells on his belt.
+[051] Goal         Note         Hidden     note_DOCHelpPagans             { CitySectionObjectives_042500 } The Pagans have requested favors to improve your faction status with them.  Shoot moss arrows into cornerstones marked with green symbols. Shoot any elemental arrow into their 'Elemental Cocoons.'
+[052] Goal         Note         Hidden     note_KLHelpHammers             { CitySectionObjectives_044250 } The Hammers have requested favors to improve your faction status with them.  Kill Rust Mites with broadhead arrows.  Kill any undead.
+[053] Goal         Note         Hidden     note_SQBlackmailMoney          { CitySectionObjectives_042437 } Your landlord has been hiding blackmail money under a sewer grate in Black Alley.
+[054] Goal         Note         Hidden     note_FindDaggerInArmorShop     { CitySectionObjectives_043500 } A thug has been hired to steal a valuable dagger from Cothron's Armory tonight.  He will be paid if he drops it into the donation box outside St. Edgar's.
+[055] Goal         Note         Hidden     note_StealHammerMap            { CitySectionObjectives_044125 } The thugs hanging around St. Edgar's Church have a map of the church with them.
+[056] Goal         Note         Hidden     note_FreeKurshok               { CitySectionObjectives_044240 } There is a strange creature locked in a cell in Stonemarket Proper who wishes to be freed.  He has a map in his cell with him.
+[057] Goal         Note         Hidden     note_FindStonecutterGems       { CitySectionObjectives_044375 } Crowley, the stonecutter, hid some gems in Terces Courtyard.
+[058] Goal         Note         Hidden     note_KCMap                     { CitySectionObjectives_043250 } A map to the Keeper Compound is in the Forbidden Library on the second floor.
+[059] Goal         Note         Hidden     note_DOCPlantSapling           { CitySectionObjectives_047000 } The City Watch are holding a Pagan sapling. The Pagans want it planted in their hideout. The Hammers want it burned, which can be done in the tavern.
+[060] Goal         Note         Hidden     note_OQDoorGlyphBroken         { CitySectionObjectives_044500 } The Keeper Door Glyphs aren't working right now.  You will need to find alternate routes.
+[061] Goal         Note         Hidden     note_SQBlackAlley              { CitySectionObjectives_044385 } The mysterious note said to look for something unusual in Black Alley.  It may help you evade the Enforcers temporarily.
+[062] Goal         Note         Hidden     note_OQZombies                 { CitySectionObjectives_049000 } The Hammers are trying to bury someone in the Old Quarter Graveyard, but they can't as long as the zombies keep regenerating.
+[063] Goal         Note         Hidden     note_Hawknor                   { CitySectionObjectives_044312 } Hauknor, a City Watch guard, is extorting the Old Quarter tavern for an expensive bottle of wine every night.
+[064] Goal         Note         Hidden     note_ShamanCornerstone         { CitySectionObjectives_044343 } A Pagan shaman wants to activate the Pagan cornerstone in the Old Quarter Graveyard so that plants will overrun the area.
+[065] Goal         Note         Hidden     note_OQBodyDisposal            { CitySectionObjectives_050000 } Derk wants Ramien to hire someone to go to the Tavern in Docks, grab the body on the second floor, clean up the blood, and drop the body into the water without having it spotted by anyone.  He'll drop off payment in Ramien's drop box.
+[066] Goal         Note         Hidden     note_OQDreptsWorkshop          { CitySectionObjectives_051000 } Drept's workshop is near the pub in Auldale.
+[067] Goal         Note         Hidden     note_OQGraveHasHHMap           { CitySectionObjectives_045750 } A map of the Shalebridge Cradle is kept in the architect's grave in the Catacombs under Fort Ironwood.
+[068] Goal         Note         Hidden     note_AULgoldsmith              { CitySectionObjectives_045125 } Fogerty the goldsmith can't open his shop back up as long as Jimmy the Knife is still alive. Jimmy the Knife is usually lurking in Auldale Plaza. 
+[069] Goal         Note         Hidden     note_AULGamallsLair            { CitySectionObjectives_052000 } To find Gamall's Lair, you must first lower the water and enter the canals.
+[070] Goal         Note         Hidden     note_MuseumMap                 { CitySectionObjectives_045375 } A map of the Wieldstrom Museum is for sale in the Old Quarter store.
+[071] End          
+--------------------------------------------------------------------------------
+name  : ClocktowerObjectives
+maps  : Clocktower 
+[000] Goal         Objective    Pending    obj_FindPlan                   { ClocktowerObjectives_002000 } Locate a mechanical plan of the clockworks.
+[001] Goal         Objective    Pending    obj_GetToBottom                { ClocktowerObjectives_001500 } Reach the basement of the Clocktower, where the furnace is.
+[002] Goal         Note         Hidden     note_SabotageMechanism         { ClocktowerObjectives_003000 } To sabotage the clockworks, pull both the Coal Dispenser and Steam Release levers.  Lastly, activate the Halting Mechanism.
+[003] Goal         Objective    Pending    obj_StopClockwork              { ClocktowerObjectives_005000 } When all your other objectives are complete, sabotage the clockworks in the furnace room to stop the clock.
+[004] Goal         Note         Hidden     note_LookAtMechanicalPlan      { ClocktowerObjectives_003500 } The mechanical plan of the clockworks can be found on your map page.
+[005] End          
+--------------------------------------------------------------------------------
+name  : DungeonObjectives
+maps  : Dungeon 
+[000] Goal         Objective    Pending    obj_glyphkey                   { DungeonObjectives_001000 } Find the Keeper Glyph Key.
+[001] Goal         Objective    Hidden     obj_journal                    { DungeonObjectives_002000 } Read Rafe's journal for a clue about how he died.
+[002] Goal         Objective    Hidden     obj_stealcrown                 { DungeonObjectives_003000 } Steal the Kurshok Crown from the former throne room.
+[003] Goal         Objective    Pending    obj_exitdungeon                { DungeonObjectives_004000 } Get back to the surface by returning to your entry point.
+[004] Goal         Note         Pending    note_SearchRafe                { DungeonObjectives_005000 } Searching for Keeper Rafe might be a good start.  Keepers on excursions often mark their trails with glyphs.
+[005] End          
+--------------------------------------------------------------------------------
+name  : HammerIntroObjectives
+maps  : HammerIntro 
+[000] Goal         Objective    Pending    obj_BreakIntoChurch            { HammerIntroObjectives_000500 } Break into St. Edgar's Church.
+[001] Goal         Objective    Pending    obj_StealHammerThingie         { HammerIntroObjectives_001000 } Find and steal the Builder's Chalice.
+[002] Goal         Objective    Hidden     obj_MakeGear                   { HammerIntroObjectives_002000 } Acquire an unstamped gear in the factory, then stamp it using the Stamping Machine.
+[003] Goal         Objective    Hidden     obj_FindHolySymbol             { HammerIntroObjectives_003000 } Steal the High Priest's holy symbol from his chambers.
+[004] Goal         Objective    Hidden     obj_AttachGear                 { HammerIntroObjectives_003500 } Attach the stamped gear and the holy symbol to the mechanism protecting the Chalice.
+[005] Goal         Objective    Pending    obj_EscapeCathedral            { HammerIntroObjectives_004000 } Once you have completed all your objectives, return to your entry point, the Front Courtyard.
+[006] Goal         Note         Hidden     obj_NoteFactory                { HammerIntroObjectives_004500 } Unstamped gears are located in the factory Storage Area.
+[007] Goal         Note         Hidden     obj_NoteBasement               { HammerIntroObjectives_005000 } To obtain the Chalice you must learn how to bypass the machines that protect it.
+[008] Goal         Note         Hidden     obj_NoteBell                   { HammerIntroObjectives_006000 } If the High Priest hears the church bell, he will leave his room and go to the church to bestow a blessing.
+[009] End          
+--------------------------------------------------------------------------------
+name  : HauntedHouseObjectives
+maps  : HauntedHouse 
+[000] Goal         Objective    Pending    obj_FindCaducaKiller           { HauntedHouseObjectives_001000 } Search for more information about the 'Hag' who attacked you.
+[001] Goal         Note         Hidden     note_StrangeKnocking           { HauntedHouseObjectives_001500 } You heard a strange knocking sound coming from the Attic.
+[002] Goal         Objective    Hidden     obj_FindBloodVial              { HauntedHouseObjectives_002000 } Find a vial of Lauryl's blood in the Storm Cellar and drop it down a drainpipe.  There is a drainpipe in the Lobby.
+[003] Goal         Objective    Hidden     obj_RepairGenerator            { HauntedHouseObjectives_003000 } Find a fuse and use it to repair the generator in the Storm Cellar.
+[004] Goal         Note         Hidden     note_FalseWall                 { HauntedHouseObjectives_003500 } Cell number five in White Hall looks like it has a false wall.
+[005] Goal         Objective    Hidden     obj_FindAndBurnClothes         { HauntedHouseObjectives_005000 } Retrieve Lauryl's nightgown from the White Hall, and then incinerate it in the Morgue.
+[006] Goal         Objective    Hidden     obj_EnterStitch                { HauntedHouseObjectives_006000 } Find one of the 'toys' Lauryl mentioned and bring it to the right place to enter the Cradle's memories of the past.
+[007] Goal         Note         Hidden     note_WhiteHallToys             { HauntedHouseObjectives_006250 } Each patient in White Hall had a favorite 'toy'. The toys are probably still there, in their former cells.
+[008] Goal         Note         Hidden     note_MoreToys                  { HauntedHouseObjectives_006375 } You can enter the Cradle's memory as a patient again by finding another patient's 'toy' and bringing it to the right place.
+[009] Goal         Note         Hidden     note_PatientRegister           { HauntedHouseObjectives_006500 } In the Hall of Records, you can find more information about the patients and their 'toys'.
+[010] Goal         Objective    Hidden     obj_FindAndBurnDiaryInStitch   { HauntedHouseObjectives_007000 } While in the Cradle's memory, find Lauryl's diary in the Nursery Tower, and then incinerate it in the Morgue.
+[011] Goal         Objective    Hidden     obj_FindSerumAndCleanBlood     { HauntedHouseObjectives_008000 } While in the Cradle's memory, find some 'Dissolution Serum' in the Treatment Rooms, and use it on the bloodstain in the Attic.
+[012] Goal         Objective    Hidden     obj_LeaveTheCradle             { HauntedHouseObjectives_009000 } Meet Lauryl downstairs in the Lobby, and leave the Cradle with her.
+[013] Goal         Objective    Hidden     obj_EnterStitchAsYourself      { HauntedHouseObjectives_010000 } Lock yourself in the cage down in the Storm Cellar to enter the Cradle's memories as yourself.
+[014] Goal         Objective    Hidden     obj_JumpOutStitchWindow        { HauntedHouseObjectives_011000 } Leap to your 'death' from the open window at the top of the Staff Tower.
+[015] End          
+--------------------------------------------------------------------------------
+name  : HobbitObjectives
+maps  : Hobbit 
+[000] Goal         Objective    Pending    FindRingInformation            { HobbitObjectives_003000 } I have to find more information about this "very expensive litle thing"...
+[001] Goal         Objective    Hidden     ReadAndFindSpecials            { HobbitObjectives_004000 } So now I need to find out what a special things lead me to this ring!
+[002] Goal         Objective    Hidden     MakeRitual                     { HobbitObjectives_006000 } Beter I go faster to the attic make a ritual - too much guards.
+[003] Goal         Objective    Hidden     StealRing                      { HobbitObjectives_007000 } OK. Now I need to get what for I came here! It would be easy... Or not?
+[004] Goal         Objective    Hidden     GetOut                         { HobbitObjectives_008000 } It`s a real crap hell! I need to get out of here - TO THE EXIT!!!
+[005] Goal         Restriction  Pending    NotSeen                        { HobbitObjectives_009000 } I needn't to be seen by guards. This hobbit is very powerful I can't escape forever - he will take me sooner or later!
+--------------------------------------------------------------------------------
+name  : InnObjectives
+maps  : Inn 
+[000] Goal         Objective    Pending    obj_BreakIntoInn               { InnObjectives_001000 } Break into the Inn.
+[001] Goal         Objective    Pending    obj_FindLordJulian             { InnObjectives_002000 } Find out what room Lord Julian is staying in.
+[002] Goal         Note         Hidden     note_JulianInPeony             { InnObjectives_002500 } Lord Julian is staying in the Peony Suite.
+[003] Goal         Objective    Pending    obj_BreakIntoRoom              { InnObjectives_003000 } Steal Lord Julian's velvet bag from his room.
+[004] Goal         Objective    Hidden     obj_StealGem                   { InnObjectives_004000 } Find Lord Julian in the Lancaster room, and steal his velvet bag from him.
+[005] Goal         Objective    Pending    obj_LeaveInn                   { InnObjectives_005000 } Leave the Inn once you have the velvet bag.
+[006] End          
+--------------------------------------------------------------------------------
+name  : KeeperCompoundObjectives
+maps  : KeeperCompound 
+[000] Goal         Objective    Pending    obj_SearchOrlandsBed           { KeeperCompoundObjectives_001000 } Search Orland's quarters on the top floor for information that might implicate him.
+[001] Goal         Objective    Hidden     obj_DestroySeal                { KeeperCompoundObjectives_002000 } To make the Keeper Door Glyphs usable again, destroy the binding seal in Orland's quarters.
+[002] Goal         Objective    Pending    obj_SearchArtysBed             { KeeperCompoundObjectives_003000 } Search Artemus's quarters in the dormitory for a clue to his whereabouts.
+[003] Goal         Objective    Pending    obj_SearchCaducasBed           { KeeperCompoundObjectives_005000 } Lastly, visit Caduca's murder site in the Lower Libraries to investigate the cause of her death.
+[004] Goal         Objective    Hidden     obj_FindGammall                { KeeperCompoundObjectives_006000 } Go to the hall of Statues to meet whoever left you the note.
+[005] Goal         Objective    Pending    obj_KeeperEscape               { KeeperCompoundObjectives_007000 } When all your objectives are complete, leave the Keeper Compound through the Old Quarter Passage in the Lower Libraries.
+[006] Goal         Note         Success    obj_NoteCaduca                 { KeeperCompoundObjectives_010000 } Caduca was murdered in her chambers in the Lower Libraries. Until Orland's binding seal is destroyed, the Lower Libraries will not be accessible.
+[007] Goal         Note         Hidden     obj_SealWithFire               { KeeperCompoundObjectives_007500 } The Binding Seal must be melted with fire.
+[008] Goal         Note         Hidden     obj_NoteRing                   { KeeperCompoundObjectives_011000 } Artemus's Keeper Ring can be used to open passages leading to Orland's quarters.
+[009] End          
+--------------------------------------------------------------------------------
+name  : MuseumObjectives
+maps  : Museum 
+[000] Goal         Objective    Pending    obj_StealArtifact#1            { MuseumObjectives_001000 } Locate the Eye and steal it.
+[001] Goal         Objective    Pending    obj_StealArtifact#2            { MuseumObjectives_002000 } Locate the Heart and steal it.
+[002] Goal         Objective    Hidden     obj_StealArtifact#3            { MuseumObjectives_003000 } Locate the Kurshok Crown and steal it.
+[003] Goal         Objective    Hidden     obj_ReachCenterAtrium          { MuseumObjectives_003500 } Reach the center of the Main Atrium to hear more from The Eye.
+[004] Goal         Objective    Hidden     obj_ReachCuratorsOffice        { MuseumObjectives_003750 } Get to the Curator's Office on the top floor, go out onto the balcony overlooking the Main Atrium, and raise the statue.
+[005] Goal         Note         Hidden     obj_Exhibits                   { MuseumObjectives_003875 } The museum's most valuable exhibits are displayed in the West Wing, the East Wing, and the Main Atrium.
+[006] Goal         Note         Hidden     obj_PowerStations              { MuseumObjectives_003937 } The power stations can disable electrical security and lights.
+[007] Goal         Note         Hidden     obj_PorterPowerLocation        { MuseumObjectives_003968 } The power station in Porter Hall is located in the northwest corner of the top floor.
+[008] Goal         Note         Hidden     obj_TeseroPowerLocation        { MuseumObjectives_003984 } The power Station in Tesero Hall is located in the southwest corner of the second floor.
+[009] Goal         Note         Hidden     obj_SecurityGates              { MuseumObjectives_003992 } The security gates will reset to their default positions when the power comes back on.
+[010] Goal         Objective    Pending    obj_exitmuseum                 { MuseumObjectives_004000 } Leave through the tunnel in the Entrance Courtyard.
+[011] End          
+--------------------------------------------------------------------------------
+name  : PaganIntroObjectives
+maps  : PaganIntro 
+[000] Goal         Objective    Hidden     obj_LearnRitual                { PaganIntroObjectives_000500 } Learn the Ritual of the Root to gain access to the Jacknall's Paw.  The shaman knows the Ritual, so search his area.
+[001] Goal         Objective    Pending    obj_StealPaw                   { PaganIntroObjectives_001000 } Steal the Jacknall's Paw from the Pagans.
+[002] Goal         Note         Pending    note_FindAMap                  { PaganIntroObjectives_002000 } It would be helpful to have a map of this Pagan territory.
+[003] Goal         Note         Hidden     note_LeaferHasMap              { PaganIntroObjectives_003000 } The pagan Leafer has a map with him, and he may be in the sewers.
+[004] Goal         Note         Hidden     note_RitualSteps               { PaganIntroObjectives_005000 } To complete the Ritual of the Root, make offerings of moss, water, and blood on the markings on the 'Giverings Altar'  in the taproot cave.
+[005] Goal         Objective    Pending    obj_ExitPaganIntro             { PaganIntroObjectives_006000 } When your other objectives are complete, leave by way of the Pagan tunnels.
+[006] End          
+--------------------------------------------------------------------------------
+name  : SeasideMansionObjectives
+maps  : SeasideMansion 
+[000] Goal         Objective    Pending    obj_EnterMansion               { SeasideMansionObjectives_001000 } Find a way into the Overlook Mansion.
+[001] Goal         Objective    Hidden     obj_FindSecretDoor             { SeasideMansionObjectives_001500 } Use the hidden switch in the study.  Then get to the North Gallery before the secret door closes.  The North Gallery is on the first floor of the Overlook Proper, directly below the Master Bedroom.
+[002] Goal         Objective    Hidden     obj_FindSecretDoor2            { SeasideMansionObjectives_001375 } Use the hidden switch in the study.  Then get to the North Gallery before the secret door closes.  The North Gallery is on the first floor of the Overlook Proper, directly below the Master Bedroom.
+[003] Goal         Objective    Pending    obj_GoldBook                   { SeasideMansionObjectives_002000 } Find and steal the golden slab known as the Compendium of Reproach.
+[004] Goal         Objective    Pending    obj_LeaveMission               { SeasideMansionObjectives_003000 } Leave the Overlook Manse grounds.
+[005] Goal         Note         Success    obj_WidowClue                  { SeasideMansionObjectives_004000 } The Widow Moira may know where her husband kept the Compendium of Reproach.
+[006] Goal         Note         Hidden     obj_WidoOnRoof                 { SeasideMansionObjectives_004500 } Widow Moira is located in the tower room at the top of the spiral staircase.
+[007] Goal         Note         Hidden     obj_FindViktrola               { SeasideMansionObjectives_005000 } Lord Moira left a message for his wife on the viktrola in the Master Bedroom.
+[008] Goal         Note         Hidden     obj_SecretRoom                 { SeasideMansionObjectives_005500 } The widow needs the money in the chest in the Captain's secret room to survive, but she doesn't need the Compendium.
+[009] Goal         Note         Hidden     obj_BringWine                  { SeasideMansionObjectives_007000 } The widow would like some wine.
+[010] End          
+--------------------------------------------------------------------------------
+--- goal mapping table dump ( this is written to Books/EMObjectives.dat --------
+--------------------------------------------------------------------------------
+*** Table : Castle
+Pending                   [000] Objective                 obj_EnterCastle           CastleObjectives_001000
+Pending                   [001] Objective                 obj_FindClue              CastleObjectives_002000
+Pending                   [004] Objective                 obj_StealObject           CastleObjectives_005000
+Pending                   [005] Objective                 obj_Exit                  CastleObjectives_006000
+Pending                   [006] Note                      obj_PutOutLionheadTorch   CastleObjectives_007000
+*** Table : Clocktower
+Pending                   [000] Objective                 obj_FindPlan              ClocktowerObjectives_002000
+Pending                   [001] Objective                 obj_GetToBottom           ClocktowerObjectives_001500
+Pending                   [003] Objective                 obj_StopClockwork         ClocktowerObjectives_005000
+*** Table : Dungeon
+Pending                   [000] Objective                 obj_glyphkey              DungeonObjectives_001000
+Pending                   [003] Objective                 obj_exitdungeon           DungeonObjectives_004000
+Pending                   [004] Note                      note_SearchRafe           DungeonObjectives_005000
+*** Table : HammerIntro
+Pending                   [000] Objective                 obj_BreakIntoChurch       HammerIntroObjectives_000500
+Pending                   [001] Objective                 obj_StealHammerThingie    HammerIntroObjectives_001000
+Pending                   [005] Objective                 obj_EscapeCathedral       HammerIntroObjectives_004000
+*** Table : HauntedHouse
+Pending                   [000] Objective                 obj_FindCaducaKiller      HauntedHouseObjectives_001000
+*** Table : Hobbit
+Pending                   [000] Objective                 FindRingInformation       HobbitObjectives_003000
+Pending                   [005] Restriction               NotSeen                   HobbitObjectives_009000
+*** Table : Inn
+Pending                   [000] Objective                 obj_BreakIntoInn          InnObjectives_001000
+Pending                   [001] Objective                 obj_FindLordJulian        InnObjectives_002000
+Pending                   [003] Objective                 obj_BreakIntoRoom         InnObjectives_003000
+Pending                   [005] Objective                 obj_LeaveInn              InnObjectives_005000
+*** Table : KeeperCompound
+Pending                   [000] Objective                 obj_SearchOrlandsBed      KeeperCompoundObjectives_001000
+Pending                   [002] Objective                 obj_SearchArtysBed        KeeperCompoundObjectives_003000
+Pending                   [003] Objective                 obj_SearchCaducasBed      KeeperCompoundObjectives_005000
+Pending                   [005] Objective                 obj_KeeperEscape          KeeperCompoundObjectives_007000
+Success                   [006] Note                      obj_NoteCaduca            KeeperCompoundObjectives_010000
+*** Table : Museum
+Pending                   [000] Objective                 obj_StealArtifact#1       MuseumObjectives_001000
+Pending                   [001] Objective                 obj_StealArtifact#2       MuseumObjectives_002000
+Pending                   [010] Objective                 obj_exitmuseum            MuseumObjectives_004000
+*** Table : PaganIntro
+Pending                   [001] Objective                 obj_StealPaw              PaganIntroObjectives_001000
+Pending                   [005] Objective                 obj_ExitPaganIntro        PaganIntroObjectives_006000
+Pending                   [002] Note                      note_FindAMap             PaganIntroObjectives_002000
+*** Table : SeasideMansion
+Pending                   [000] Objective                 obj_EnterMansion          SeasideMansionObjectives_001000
+Pending                   [003] Objective                 obj_GoldBook              SeasideMansionObjectives_002000
+Pending                   [004] Objective                 obj_LeaveMission          SeasideMansionObjectives_003000
+Success                   [005] Note                      obj_WidowClue             SeasideMansionObjectives_004000
+--------------------------------------------------------------------------------
