@@ -18,4 +18,5 @@ tags 1
 MetaSound
 HobbitObjectives_008000/meta1
 lang_english 2021-11-25 20:37:45:00 "It`s a real crap hell! I need to get out of here - TO THE EXIT!!!"
+lang_french 2021-11-25 20:37:45:00 "Это настоящий ад! Нужно быстрее убираться отсюда - БЕГОМ НА ВЫХОД!!!"
 none

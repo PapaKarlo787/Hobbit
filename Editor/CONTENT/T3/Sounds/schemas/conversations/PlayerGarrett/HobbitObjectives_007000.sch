@@ -18,4 +18,5 @@ tags 1
 MetaSound
 HobbitObjectives_007000/meta1
 lang_english 2021-11-25 20:37:45:00 "OK. Now I need to get what for I came here! It would be easy... Or not?"
+lang_french 2021-11-25 20:37:45:00 "Хорошо, сейчас мне нужно получить то, за чем я пришел. Должно быть легко... Или нет?"
 none

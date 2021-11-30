@@ -18,4 +18,5 @@ tags 1
 MetaSound
 HobbitObjectives_004000/meta1
 lang_english 2021-11-25 20:37:45:00 "So now I need to find out what a special things lead me to this ring!"
+lang_french 2021-11-25 20:37:45:00 "Тааак. Сейчас нужно найти эти особые предметы, о которых сказано в записке, они помогут мне добраться до кольца!"
 none
