@@ -1,10 +1,10 @@
 Version 7
 SoundSchema
-HobbitObjectives_002000
+HobbitObjectives_003000
 streamtype 0
 volume 0,0 pitch 0,0
 radii 0.00625,100
-pan 538976288,538976288
+pan 90,90
 randomstyle 0
 looptype 0
 finishstyle 0
@@ -16,6 +16,7 @@ meta1
 tags 1
 +voice:
 MetaSound
-HobbitObjectives_002000/meta1
-lang_english 2021-11-25 20:17:18:00 ""
+HobbitObjectives_003000/meta1
+lang_english 2021-11-25 20:37:45:00 "I have to find more information about this "very expensive litle thing"..."
+lang_french 2021-11-25 20:37:45:00 "Мне нужно больше узнать про эту "маленькую ценную вещицу"..."
 none

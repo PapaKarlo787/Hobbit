@@ -1,9 +1,5 @@
 VERSION 2.0
 TextEntry
-t_Blackjack
-lang_english 2004-02-29 21:48:00 "Blackjack"
-lang_french 2004-03-22 04:55:35 "Дубинка"
-TextEntry
 t_OneRing
 lang_english 2004-02-29 21:48:00 "The One Ring"
 lang_french 2004-03-22 04:55:35 "Единое Кольцо"
@@ -19,6 +15,10 @@ TextEntry
 t_TrollsPurse
 lang_english 2004-02-29 21:48:00 "Troll`s purse"
 lang_french 2004-03-22 04:55:35 "Кошелек троллей"
+TextEntry
+t_Blackjack
+lang_english 2004-02-29 21:48:00 "Blackjack"
+lang_french 2004-03-22 04:55:35 "Дубинка"
 TextEntry
 t_Dagger
 lang_english 2004-02-29 21:48:00 "Dagger"

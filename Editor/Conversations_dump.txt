@@ -147,7 +147,10 @@ maps  : Hobbit
 [002] Goal         Objective    Hidden     MakeRitual                     { HobbitObjectives_006000 } Beter I go faster to the attic make a ritual - too much guards.
 [003] Goal         Objective    Hidden     StealRing                      { HobbitObjectives_007000 } OK. Now I need to get what for I came here! It would be easy... Or not?
 [004] Goal         Objective    Hidden     GetOut                         { HobbitObjectives_008000 } It`s a real crap hell! I need to get out of here - TO THE EXIT!!!
-[005] Goal         Restriction  Pending    NotSeen                        { HobbitObjectives_009000 } I needn't to be seen by guards. This hobbit is very powerful I can't escape forever - he will take me sooner or later!
+[005] Goal         Objective    Pending    Loot                           { HobbitObjectives_004375 } Steal at least <gv=dif_lootpercent>% of the loot.  (<gv=sta_lootpercent>% stolen)
+[006] Goal         Objective    Pending    Special                        { HobbitObjectives_004343 } Find at least <gv=dif_specialloot> special loot items. (<gv=sta_specialloot> found)
+[007] Goal         Restriction  Pending    NotSeen                        { HobbitObjectives_009000 } I needn't to be seen by guards. This hobbit is very powerful I can't escape forever - he will take me sooner or later!
+[008] End          
 --------------------------------------------------------------------------------
 name  : InnObjectives
 maps  : Inn 
@@ -235,7 +238,9 @@ Pending                   [005] Objective                 obj_EscapeCathedral   
 Pending                   [000] Objective                 obj_FindCaducaKiller      HauntedHouseObjectives_001000
 *** Table : Hobbit
 Pending                   [000] Objective                 FindRingInformation       HobbitObjectives_003000
-Pending                   [005] Restriction               NotSeen                   HobbitObjectives_009000
+Pending                   [005] Objective                 Loot                      HobbitObjectives_004375
+Pending                   [006] Objective                 Special                   HobbitObjectives_004343
+Pending                   [007] Restriction               NotSeen                   HobbitObjectives_009000
 *** Table : Inn
 Pending                   [000] Objective                 obj_BreakIntoInn          InnObjectives_001000
 Pending                   [001] Objective                 obj_FindLordJulian        InnObjectives_002000
