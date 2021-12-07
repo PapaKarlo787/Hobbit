@@ -18,5 +18,7 @@ tags 1
 MetaSound
 HobbitObjectives_009000/meta1
 lang_english 2021-11-25 20:37:45:00 "I needn't to be seen by guards. This hobbit is very powerful I can't escape forever - he will take me sooner or later!"
-lang_french 2021-11-25 20:37:45:00 "РњРµРЅСЏ РЅРµ РґРѕР»Р¶РµРЅ РІРёРґРµС‚СЊ РїР°С‚СЂСѓР»СЊ. Р­С‚РѕС‚ С…РѕР±Р±РёС‚ РѕС‡РµРЅСЊ РјРѕРіСѓС‰РµСЃС‚РІРµРЅ, РїРѕСЃР»Рµ СЌС‚РѕРіРѕ РґРµР»Р° СЏ РЅРµ СЃРјРѕРіСѓ СЃРєСЂС‹РІР°С‚СЊСЃСЏ РІРµС‡РЅРѕ - РѕРЅ РјРµРЅСЏ РЅР°Р№РґРµС‚!"
+lang_french 2021-11-25 20:37:45:00 "Меня не должны видеть. Этот хоббит очень влиятелен, я не смогу скрыться навсегда, иначе он надет меня - не сразу, так позже!"
+lang_german 2021-11-25 20:37:45:00 "I needn't to be seen by guards. This hobbit is very powerful I can't escape forever - he will take me sooner or later!"
+lang_italian 2021-11-25 20:37:45:00 "I needn't to be seen by guards. This hobbit is very powerful I can't escape forever - he will take me sooner or later!"
 none

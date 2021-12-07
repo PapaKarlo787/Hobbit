@@ -18,5 +18,7 @@ tags 1
 MetaSound
 HobbitObjectives_003000/meta1
 lang_english 2021-11-25 20:37:45:00 "I have to find more information about this "very expensive litle thing"..."
-lang_french 2021-11-25 20:37:45:00 "РњРЅРµ РЅСѓР¶РЅРѕ Р±РѕР»СЊС€Рµ СѓР·РЅР°С‚СЊ РїСЂРѕ СЌС‚Сѓ "РјР°Р»РµРЅСЊРєСѓСЋ С†РµРЅРЅСѓСЋ РІРµС‰РёС†Сѓ"..."
+lang_french 2021-11-25 20:37:45:00 "Мне нужно найти больше информации про эту "маленькую дорогую вещицу"..."
+lang_german 2021-11-25 20:37:45:00 "I have to find more information about this "very expensive litle thing"..."
+lang_italian 2021-11-25 20:37:45:00 "I have to find more information about this "very expensive litle thing"..."
 none

@@ -1,7 +1,0 @@
-VERSION 2.0
-TextEntry
-PaganIntro
-lang_english 2004-02-20 21:36:00 "<font=Papyrus14><dc=97,80,109>\nSo this is the Jacknall's Paw. The Keepers will be happy, but I doubt the Pagans will be as pleased.  There are more of them in the city than anyone knew, and now their secret's out.  I just hope that when they go hunting for their property, they don't come looking for me too."
-lang_french 2004-04-23 17:46:05 "<font=Papyrus14><dc=97,80,109>\nAlors c'est ça, la Patte du Jacknall... Les Gardiens seront satisfaits mais je doute que les Païens soient heureux. Ils sont plus nombreux en ville qu'on ne le pensait et maintenant leur secret est dévoilé. J'espère seulement que quand ils se mettront en quête de leur bien, ils n'en auront pas après moi."
-lang_german 2004-03-25 11:39:21 "<font=Papyrus14><dc=97,80,109> \nDas ist also Jacknalls Tatze. Die Hüter werden begeistert sein, die Heiden vermutlich weniger. Wer hätte gedacht, dass immer noch so viele Heiden in der Stadt sind. Niemand. Tja, aber jetzt sind sie aufgeflogen. Ich kann nur hoffen, dass sie auf der Suche nach ihrem Eigentum nicht bei mir nachfragen."
-lang_italian 2004-03-26 12:29:50 "<font=Papyrus14><dc=97,80,109>\nDunque questa è la zampa di Jacknall. I custodi saranno felici, al contrario dei pagani. Essi sono molto più di quanto chiunque osasse immaginare e ora il loro segreto è stato scoperto. Spero solo che quando verranno per riprendersi ciò che gli appartiene, non diano la caccia anche a me. "

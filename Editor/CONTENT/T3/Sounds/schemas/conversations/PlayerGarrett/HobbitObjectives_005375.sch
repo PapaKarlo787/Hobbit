@@ -18,4 +18,7 @@ tags 1
 MetaSound
 HobbitObjectives_005375/meta1
 lang_english 2021-12-06 09:01:16:00 "Find at least <gv=dif_specialloot> special loot items. (<gv=sta_specialloot> found)"
+lang_french 2021-12-06 09:01:16:00 "Найди как минимум <gv=dif_specialloot> особых предметов. (<gv=sta_specialloot> найдено)"
+lang_german 2021-12-06 09:01:16:00 "Find at least <gv=dif_specialloot> special loot items. (<gv=sta_specialloot> found)"
+lang_italian 2021-12-06 09:01:16:00 "Find at least <gv=dif_specialloot> special loot items. (<gv=sta_specialloot> found)"
 none
