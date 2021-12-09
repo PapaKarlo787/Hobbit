@@ -17,8 +17,8 @@ tags 1
 +voice:
 MetaSound
 HobbitObjectives_006000/meta1
-lang_english 2021-11-25 20:37:45:00 "Beter I go faster to the attic make a ritual - too much guards."
-lang_french 2021-11-25 20:37:45:00 "Лучше поспешить на чердак, чтобы совершить ритуал - слишком много стражи."
-lang_german 2021-11-25 20:37:45:00 "Beter I go faster to the attic make a ritual - too much guards."
-lang_italian 2021-11-25 20:37:45:00 "Beter I go faster to the attic make a ritual - too much guards."
+lang_english 2021-12-08 00:00:00:00 "Beter I go faster to the attic make a ritual - too much guards."
+lang_french 2021-12-08 00:00:00:00 "Лучше поспешить на чердак, чтобы совершить ритуал - слишком много стражи."
+lang_german 2021-12-08 00:00:00:00 "Beter I go faster to the attic make a ritual - too much guards."
+lang_italian 2021-12-08 00:00:00:00 "Beter I go faster to the attic make a ritual - too much guards."
 none

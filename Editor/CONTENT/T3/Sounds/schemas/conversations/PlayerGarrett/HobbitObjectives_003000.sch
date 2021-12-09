@@ -17,8 +17,8 @@ tags 1
 +voice:
 MetaSound
 HobbitObjectives_003000/meta1
-lang_english 2021-11-25 20:37:45:00 "I have to find more information about this "very expensive litle thing"..."
-lang_french 2021-11-25 20:37:45:00 "Мне нужно найти больше информации про эту "маленькую дорогую вещицу"..."
-lang_german 2021-11-25 20:37:45:00 "I have to find more information about this "very expensive litle thing"..."
-lang_italian 2021-11-25 20:37:45:00 "I have to find more information about this "very expensive litle thing"..."
+lang_english 2021-12-08 00:00:00:00 "I have to find more information about this "very expensive litle thing"..."
+lang_french 2021-12-08 00:00:00:00 "Мне нужно найти больше информации про эту "маленькую дорогую вещицу"..."
+lang_german 2021-12-08 00:00:00:00 "I have to find more information about this "very expensive litle thing"..."
+lang_italian 2021-12-08 00:00:00:00 "I have to find more information about this "very expensive litle thing"..."
 none

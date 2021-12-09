@@ -17,8 +17,8 @@ tags 1
 +voice:
 MetaSound
 HobbitObjectives_008000/meta1
-lang_english 2021-11-25 20:37:45:00 "It`s a real crap hell! I need to get out of here - TO THE EXIT!!!"
-lang_french 2021-11-25 20:37:45:00 "Это настоящая чертовщина! Нужно убираться отсюда скорее - НА ВЫХОД!!!"
-lang_german 2021-11-25 20:37:45:00 "It`s a real crap hell! I need to get out of here - TO THE EXIT!!!"
-lang_italian 2021-11-25 20:37:45:00 "It`s a real crap hell! I need to get out of here - TO THE EXIT!!!"
+lang_english 2021-12-08 00:00:00:00 "It's a real crap hell! I need to get out of here - TO THE EXIT!!!"
+lang_french 2021-12-08 00:00:00:00 "Это настоящая чертовщина! Нужно убираться отсюда скорее - НА ВЫХОД!!!"
+lang_german 2021-12-08 00:00:00:00 "It's a real crap hell! I need to get out of here - TO THE EXIT!!!"
+lang_italian 2021-12-08 00:00:00:00 "It`s a real crap hell! I need to get out of here - TO THE EXIT!!!"
 none
