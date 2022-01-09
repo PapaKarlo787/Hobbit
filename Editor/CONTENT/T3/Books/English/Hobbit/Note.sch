@@ -1,7 +1,7 @@
 VERSION 2.0
 TextEntry
 Note
-lang_english 2021-12-08 00:00:00 "<font=Papyrus14>Now I can go from the bedroom to the pantry to refresh myself and take a walk with my precious ring."
-lang_french 2021-12-08 00:00:00 "<font=Papyrus14>—ейчас € могу прогул€тьс€ из кроватки пр€мо в кладовую - подкреплюсь и устрою небольшой обход с моим прелестным колечком."
-lang_german 2021-12-08 00:00:00 "<font=Papyrus14>Now I can go from the bedroom to the pantry to refresh myself and take a walk with my precious ring."
-lang_italian 2021-12-08 00:00:00 "<font=Papyrus14>Now I can go from the bedroom to the pantry to refresh myself and take a walk with my precious ring."
+lang_english 2021-12-08 00:00:00 "<font=Papyrus14>Now I can go from the bedroom to the pantry to refresh myself and take a walk with my precious ring.\n\nKey for this boxes keeps one of my secret Guards, who guards my office if alert could happend."
+lang_french 2021-12-08 00:00:00 "<font=Papyrus14>—ейчас € могу прогул€тьс€ из кроватки пр€мо в кладовую - подкреплюсь и устрою небольшой обход с моим прелестным колечком.\n\n люч дл€ этих сундуков находитс€ у моего секретного стража, которой стережЄт мой офис в случае сигнала тревоги"
+lang_german 2021-12-08 00:00:00 "<font=Papyrus14>Now I can go from the bedroom to the pantry to refresh myself and take a walk with my precious ring.\n\nKey for this boxes keeps one of my secret Guards, who guards my office if alert could happend."
+lang_italian 2021-12-08 00:00:00 "<font=Papyrus14>Now I can go from the bedroom to the pantry to refresh myself and take a walk with my precious ring.\n\nKey for this boxes keeps one of my secret Guards, who guards my office if alert could happend."
