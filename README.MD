@@ -11,4 +11,4 @@ Komag'a - http://www.shadowdarkkeep.com/files/komagtutt3.htm
 Установка ФМ
 ============
 Чтобы играть в миссию, нужно скачать Sneaky Upgrade 1.1.10 (https://darkfate.org/view/details/files/projects/t3sneakyupgrade) и установить в папку с игрой. Затем по инструкции (https://darkfate.org/view/details/library/faqs/fm_install.pl) установить ФМ.
-![alt text](intro.jpg  "Вход в нору")
+![alt text](intro.jpg "Вход в нору")
